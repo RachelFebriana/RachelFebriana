@@ -1,5 +1,6 @@
 ## Welcome To My Project
-![RachelProject](https://github.com/RachelFebriana/RachelFebriana/rachel_banner.png)
+![RachelProject](https://github.com/RachelFebriana/RachelFebriana/raw/main/rachel_banner.png)
+
 
 ## What is Di RachelFebriana's project?
 - Shell / Cpp / C++ / Python
