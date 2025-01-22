@@ -2,7 +2,7 @@
 ![RachelProject](https://github.com/RachelFebriana/RachelFebriana/raw/main/rachel_banner.png)
 
 
-## What is Di RachelFebriana's project?
+## What is RachelFebriana's project?
 - Shell / Cpp / C++ / Python
 
 ## Important Links
